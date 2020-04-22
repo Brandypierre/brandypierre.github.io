@@ -1,12 +1,24 @@
 h2 {
    color: teal;
+   border-radius: 10px;
     font-family: "Lucida Console", Monaco, monospace;
-    border: 3px solid turquoise;
+    border: 3px solid darkcyan;
 } 
 body {
     background-color: pink;
 }
 
+img{
+    border: 2px solid black; 
+    box-shadow: 3px 3px 5px black; 
+}
+
 div {
-    border: 2px solid darkcyan;
+    border-width: 2px;
+    border-style: solid;
+    border-color: crimson;
+    border-radius: 10px;
+
+    box-shadow: 6px 5px 5px lightcoral;
+
 }
