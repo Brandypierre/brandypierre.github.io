@@ -11,7 +11,7 @@ h2 {
 
 body {
     background-color: pink;
-    margin-right: 120px;
+    margin-right: 80px;
 }
 
 img{
@@ -24,7 +24,7 @@ div {
     border-style: solid;
     border-color: crimson;
     border-radius: 10px;
-
+margin-right: 60px;
     box-shadow: 6px 5px 5px lightcoral;
 
 }
