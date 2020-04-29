@@ -6,11 +6,12 @@ h2 {
     padding: 5px;
     padding-top: 0px;
     margin:0px;
-    margin-bottom: 30px;
+    margin-right: 60px;
 } 
 
 body {
     background-color: pink;
+    margin-right: 120px;
 }
 
 img{
