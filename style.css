@@ -1,5 +1,5 @@
 h2 {
-   color: teal;
+ color: teal; 
    border-radius: 10px;
     font-family: "Lucida Console", Monaco, monospace;
     border: 3px solid darkcyan;
@@ -27,4 +27,37 @@ div {
 margin-right: 60px;
     box-shadow: 6px 5px 5px lightcoral;
 
+}
+
+#secretpuzzle{
+    color: red;
+}
+#topmovie{
+    color: blueviolet;
+    border-color: cornflowerblue;
+    border-style: groove;
+
+}
+
+#foods{
+    color:deeppink;
+    background-color: yellowgreen;
+
+}
+
+#states{
+    color: rebeccapurple;
+    border-color: darkslateblue;
+}
+
+#student{
+    border-style: ridge;
+    border-color: midnightblue;
+}
+
+#color{
+    color: tomato;
+    border-style: dotted;
+    border-color: black;
+    
 }
