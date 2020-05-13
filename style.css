@@ -31,11 +31,14 @@ margin-right: 60px;
 
 #secretpuzzle{
     color: red;
+    border-radius: 5px;
 }
 #topmovie{
     color: blueviolet;
     border-color: cornflowerblue;
     border-style: groove;
+    font-family: 'Times New Roman', Times, serif;
+
 
 }
 
@@ -48,6 +51,7 @@ margin-right: 60px;
 #states{
     color: rebeccapurple;
     border-color: darkslateblue;
+    border-radius: 0px; 
 }
 
 #student{
@@ -59,5 +63,6 @@ margin-right: 60px;
     color: tomato;
     border-style: dotted;
     border-color: black;
+    background-color: black;
     
 }
