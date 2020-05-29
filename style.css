@@ -15,27 +15,27 @@ body {
 }
 
 img{
-    border: 2px solid black; 
+    border: 2px solid rgb(206, 36, 107)7); 
     box-shadow: 3px 3px 5px black; 
 }
 
 div {
     border-width: 2px;
     border-style: solid;
-    border-color: crimson;
+    border-color: rgb(255, 132, 157);
     border-radius: 10px;
 margin-right: 60px;
-    box-shadow: 6px 5px 5px lightcoral;
+    box-shadow: 6px 5px 5px rgb(156, 12, 101);
 
 }
 
 #secretpuzzle{
-    color: red;
+    color: rgb(107, 15, 15)(110, 14, 14);
     border-radius: 5px;
 }
 #topmovie{
-    color: blueviolet;
-    border-color: cornflowerblue;
+    color: rgb(157, 52, 255);
+    border-color: rgb(175, 201, 250);
     border-style: groove;
     font-family: 'Times New Roman', Times, serif;
 
@@ -43,26 +43,26 @@ margin-right: 60px;
 }
 
 #foods{
-    color:deeppink;
-    background-color: yellowgreen;
+    color:rgb(255, 32, 151);
+    background-color: rgb(189, 255, 56);
 
 }
 
 #states{
-    color: rebeccapurple;
-    border-color: darkslateblue;
+    color: rgb(47, 199, 153);
+    border-color: rgba(212, 187, 41, 0.76);
     border-radius: 0px; 
 }
 
 #student{
     border-style: ridge;
-    border-color: midnightblue;
+    border-color: rgb(7, 7, 128);
 }
 
 #color{
     color: tomato;
     border-style: dotted;
-    border-color: black;
-    background-color: black;
+    border-color: rgb(82, 53, 53)
+    background-color: firebrick;
     
 }
