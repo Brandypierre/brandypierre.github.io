@@ -1,17 +1,17 @@
 body {
-    background-color: #ffe6ee;
+    background-color: #fa91b2;
 }
 
 h2 {
-    color: darkcyan;
+    color: rgb(3, 48, 48);
 }
 
 p {
-    color: #f26f8a
+    color: #ce0b32
 }
 
 #two{
-    color: maroon;
+    color: rgb(36, 2, 2);
     border:3px;
-    border-color: indigo;
+    border-color: rgb(125, 22, 199);
 }
